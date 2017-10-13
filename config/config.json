@@ -1,0 +1,7 @@
+{
+  "app-port":"8080",
+  "domain":"localhost",
+  "app-view":"views",
+  "app-engine":"ejs",
+  "log-level":"dev"
+}
